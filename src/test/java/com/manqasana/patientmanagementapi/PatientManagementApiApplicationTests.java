@@ -1,4 +1,4 @@
-package com.manqasana.patient_management_api;
+package com.manqasana.patientmanagementapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

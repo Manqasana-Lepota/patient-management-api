@@ -1,4 +1,4 @@
-package com.manqasana.patient_management_api;
+package com.manqasana.patientmanagementapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
